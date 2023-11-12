@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DerwichZaidan, first name Phillipe, but you can call me by my last name, Zaidan.
+- 👀 I’m interested in data science, machine learning, IA and taxonomy.
+- 📫 You can reach me on LinkedIn <https://www.linkedin.com/in/phillipezaidan/>
